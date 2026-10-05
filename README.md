@@ -177,6 +177,20 @@ Exported data respects the currently selected dashboard filters.
 
 ---
 
+
+## 🖼️ Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Skill Performance Analysis
+![Skill Analysis](screenshots/skill_analysis.png)
+
+### Department Performance
+![Department Performance](screenshots/department_performance.png)
+
+
+
 ## 📂 Project Structure
 
 ```text
