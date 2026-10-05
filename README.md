@@ -185,6 +185,9 @@ Student_Skill_Assessment_Dashboard/
 ├── app.py
 ├── data_analysis.py
 ├── student_skill_assessment.csv
-├── student_skill_assessment.xlsx
+├── requirements.txt
 ├── README.md
-└── requirements.txt
+└── screenshots/
+    ├── dashboard_overview.png
+    ├── skill_analysis.png
+    └── department_performance.png
